@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "teste": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
